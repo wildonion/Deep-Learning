@@ -15,7 +15,7 @@
 
 [LSTM GAN - Generating music](https://colab.research.google.com/drive/1sZ3TvwEuf0utYVOmxpybYFhkMOln92Ia)
 
-[PixelRNN & PixelCNN++ - Completing images](https://colab.research.google.com/drive/1zRPyNPE8odlg6OYzUa0K-SBPyb_-mxx3)
+[Autoregressive Models - PixelRNN, PixelCNN & WaveNet](https://colab.research.google.com/drive/1zRPyNPE8odlg6OYzUa0K-SBPyb_-mxx3)
 
 [Neural Style Transfer, DeepDream & Pix2Pix](https://colab.research.google.com/drive/1yoIgGFmZG6T6wjmjNt3jYDoh-P6L-wOK)
 
@@ -24,3 +24,5 @@
 [FGSM Attack](https://colab.research.google.com/drive/1znS-Da11ZekzxiQ5LpBRwI4Km6Zzf1SG)
 
 [Style GAN](https://colab.research.google.com/drive/1dOtWhLo1Jqb05aG2BjPk5kQOxCGfI5Pi)
+
+[Autoencoders](https://colab.research.google.com/drive/1ST90cnpUPIzU7L71jgLSl2gYucaumGJL)
