@@ -17,6 +17,8 @@
 
 [LSTM GAN - Generating music](https://colab.research.google.com/drive/1sZ3TvwEuf0utYVOmxpybYFhkMOln92Ia)
 
+[LSTM GAN - Generating Text](https://colab.research.google.com/drive/1YEv_jKfJK_vkEanBdlrkaFWmZjKeSVkz)
+
 [Autoregressive Models - PixelRNN, PixelCNN & WaveNet](https://colab.research.google.com/drive/1zRPyNPE8odlg6OYzUa0K-SBPyb_-mxx3)
 
 [Neural Style Transfer, DeepDream & Pix2Pix](https://colab.research.google.com/drive/1yoIgGFmZG6T6wjmjNt3jYDoh-P6L-wOK)
