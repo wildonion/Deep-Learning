@@ -11,7 +11,7 @@
 
 [info GAN - Generating images with a specific noise](https://colab.research.google.com/drive/1kHswPw1pnuawxfpF5c0MbetELcLUMNVy)
 
-[Conditional GAN - Generating images from tags](https://colab.research.google.com/drive/1DfFKHL2mMlkV9-okhF83yL9I8GmHZ4xD)
+[Conditional GAN - Generating images from tags & Face aging](https://colab.research.google.com/drive/1DfFKHL2mMlkV9-okhF83yL9I8GmHZ4xD)
 
 [Progressive Growing GAN - Outputting large high-quality images](https://colab.research.google.com/drive/1ab2qU_UuwyErxkkBD63_aMm6CjAW9Rl3)
 
