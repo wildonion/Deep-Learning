@@ -29,4 +29,6 @@
 
 [Style GAN](https://colab.research.google.com/drive/1dOtWhLo1Jqb05aG2BjPk5kQOxCGfI5Pi)
 
+[Semi-Supervised GAN](https://colab.research.google.com/drive/1ixlMO49sX72JmnVjnJ-yG7fIXVvLZKoh)
+
 [Autoencoders](https://colab.research.google.com/drive/1ST90cnpUPIzU7L71jgLSl2gYucaumGJL)
