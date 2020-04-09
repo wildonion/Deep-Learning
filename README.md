@@ -13,6 +13,8 @@
 
 [Conditional GAN - Generating images from tags & Face aging](https://colab.research.google.com/drive/1DfFKHL2mMlkV9-okhF83yL9I8GmHZ4xD)
 
+[3D GAN - 3D Shape generation](https://colab.research.google.com/drive/1MD-Oji7mBzFx4FqfO6di23CXRhYWvKFv)
+
 [Progressive Growing GAN - Outputting large high-quality images](https://colab.research.google.com/drive/1ab2qU_UuwyErxkkBD63_aMm6CjAW9Rl3)
 
 [LSTM GAN - Generating music](https://colab.research.google.com/drive/1sZ3TvwEuf0utYVOmxpybYFhkMOln92Ia)
