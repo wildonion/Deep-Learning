@@ -29,7 +29,7 @@
 
 [FGSM Attack](https://colab.research.google.com/drive/1znS-Da11ZekzxiQ5LpBRwI4Km6Zzf1SG)
 
-[Style GAN](https://colab.research.google.com/drive/1dOtWhLo1Jqb05aG2BjPk5kQOxCGfI5Pi)
+[NVIDIA GAN Projects](https://colab.research.google.com/drive/1dOtWhLo1Jqb05aG2BjPk5kQOxCGfI5Pi)
 
 [Semi-Supervised GAN](https://colab.research.google.com/drive/1ixlMO49sX72JmnVjnJ-yG7fIXVvLZKoh)
 
