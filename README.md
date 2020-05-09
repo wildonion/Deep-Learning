@@ -35,9 +35,9 @@
 
 [Capsule & DeepConv AAE/VAE - Denoising & Rconstructing images](https://colab.research.google.com/drive/1ST90cnpUPIzU7L71jgLSl2gYucaumGJL)
 
-[Drug Discovery](https://colab.research.google.com/drive/1vHJsh08o7I_IiU8vwobNvi-JUFfVPGWw)
+[AAE & VAE for Drug Discovery](https://colab.research.google.com/drive/1vHJsh08o7I_IiU8vwobNvi-JUFfVPGWw)
 
-[Deepfake Generator](https://colab.research.google.com/drive/1mufLNilk8ixSC8FYkeUzblyp4g7o6NOh)
+[Deepfake Generator using AAE & VAE](https://colab.research.google.com/drive/1mufLNilk8ixSC8FYkeUzblyp4g7o6NOh)
 
 
 
