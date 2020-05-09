@@ -17,10 +17,6 @@
 
 [Progressive Growing GAN - Outputting large high-quality images](https://colab.research.google.com/drive/1ab2qU_UuwyErxkkBD63_aMm6CjAW9Rl3)
 
-[Music Generation](https://colab.research.google.com/drive/1sZ3TvwEuf0utYVOmxpybYFhkMOln92Ia)
-
-[Text Generation & Language Models](https://colab.research.google.com/drive/1YEv_jKfJK_vkEanBdlrkaFWmZjKeSVkz)
-
 [Autoregressive Models - PixelRNN, PixelCNN & WaveNet](https://colab.research.google.com/drive/1zRPyNPE8odlg6OYzUa0K-SBPyb_-mxx3)
 
 [Neural Style Transfer, DeepDream & Pix2Pix](https://colab.research.google.com/drive/1yoIgGFmZG6T6wjmjNt3jYDoh-P6L-wOK)
@@ -36,6 +32,10 @@
 [Capsule & DeepConv using AAE & VAE - Denoising & Rconstructing images](https://colab.research.google.com/drive/1ST90cnpUPIzU7L71jgLSl2gYucaumGJL)
 
 [AAE & VAE for Drug Discovery](https://colab.research.google.com/drive/1vHJsh08o7I_IiU8vwobNvi-JUFfVPGWw)
+
+[Music Generation](https://colab.research.google.com/drive/1sZ3TvwEuf0utYVOmxpybYFhkMOln92Ia)
+
+[Text Generation & Language Models](https://colab.research.google.com/drive/1YEv_jKfJK_vkEanBdlrkaFWmZjKeSVkz)
 
 [Deepfake Generator using AAE & VAE](https://colab.research.google.com/drive/1mufLNilk8ixSC8FYkeUzblyp4g7o6NOh)
 
