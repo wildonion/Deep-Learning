@@ -39,7 +39,7 @@
 
 [Deepfake Generator using AAE & VAE](https://colab.research.google.com/drive/1mufLNilk8ixSC8FYkeUzblyp4g7o6NOh)
 
-[Every Environment Needs GANaRL for - YOTO(You Only Train Once)](https://colab.research.google.com/drive/1OOttboitAThA2FKAsUKwJQlMfrdRxVlH)
+[Every Environment Needs GANaRL - YOTO(You Only Train Once)](https://colab.research.google.com/drive/1OOttboitAThA2FKAsUKwJQlMfrdRxVlH)
 
 
 
