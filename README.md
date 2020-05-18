@@ -3,6 +3,3 @@
 
 # supervised
 > Conceptual Notebooks of Classification & Regression Implementation on Images & Sequences using state-of-the-art LSTM, CNN Models & Capsule Networks.
-
-# reinforcement learning
-> [ColdRice RL Algorithms](https://github.com/wildonion/ColdRice/tree/master/coldrice/rl/)
