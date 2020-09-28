@@ -29,8 +29,6 @@
 
 [Semi-Supervised GAN](https://colab.research.google.com/drive/1ixlMO49sX72JmnVjnJ-yG7fIXVvLZKoh) - INCOMPLETE
 
-[Capsule & DeepConv using AAE & VAE - Denoising & Rconstructing images](https://colab.research.google.com/drive/1ST90cnpUPIzU7L71jgLSl2gYucaumGJL) - INCOMPLETE
-
 [AAE & VAE for Drug Discovery](https://colab.research.google.com/drive/1vHJsh08o7I_IiU8vwobNvi-JUFfVPGWw) - INCOMPLETE
 
 [Music Generation](https://colab.research.google.com/drive/1sZ3TvwEuf0utYVOmxpybYFhkMOln92Ia) - INCOMPLETE
